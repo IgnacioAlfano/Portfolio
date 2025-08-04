@@ -5,28 +5,30 @@ const projects = [
     id: 1,
     title: "Modern Bank App",
     description: "Solución web moderna con componentes reutilizables y diseño responsivo, basada en React y Tailwind.",
-    image: "/public/BankApp.png",
+    image: "/BankApp.png",
     tags: ["React", "TailwindCSS" ],
     demoUrl: "https://modern-bank-app-cyan.vercel.app/#features",
-    githubUrl: "https://github.com/IgnacioAlfano/modern_bank_app",
+    githubUrl: "https://github.com/IgnacioAlfano",
   },
   {
     id: 2,
     title: "Vam Web Optimization",
     description:
       "UI conceptual basada en el espacio, con estética retro-pixelada y navegación intuitiva diseñada en Figma.",
-    image: "/public/Vam-WEB-Optimization.png",
+    image: "/Vam-WEB-Optimization.png",
     tags: ["Figma", "Prototype", "Web Design"],
     demoUrl: "https://www.figma.com/design/DMecBTWtduwmtvYuSonHsG/VamWeb?node-id=0-1&p=f&t=NhAValUHqFEtUQ16-0",
+    githubUrl: "https://github.com/IgnacioAlfano",
   },
   {
-    id: 2,
+    id: 3,
     title: "Modern Portfolio",
     description:
       " Portafolio moderno usando React, TailwindCSS, Vite y Lucide Icons. Con soporte para modo oscuro y animaciones responsivas",
-    image: "/public/Portfolio.png",
+    image: "/Portfolio.png",
     tags: ["React", "TailwindCSS", "Vite",],
-    demoUrl: "https://www.figma.com/design/DMecBTWtduwmtvYuSonHsG/VamWeb?node-id=0-1&p=f&t=NhAValUHqFEtUQ16-0",
+    demoUrl: "",
+    githubUrl:"https://github.com/IgnacioAlfano/Portfolio",
   },
   
 ];
