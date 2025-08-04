@@ -21,8 +21,8 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        Creo experiencias web estelares con tecnologías modernas.
-                        Especializado en desarrollo front-end, construyo interfaces que son tanto hermosas como funcionales.
+                        Creo experiencias web intuitivas y optimizadas que conectan con el usuario.
+                        Trabajo junto a clientes para diseñar y desarrollar interfaces front-end que combinan estética, rendimiento y accesibilidad.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">

@@ -115,8 +115,8 @@ export const ContactSection = () => {
             </div>
 
             <div className="pt-6">
-              <h4 className="font-medium mb-4 mr-9"> Links</h4>
-              <div className="flex space-x-4 justify-center mr-8 ">
+              <h4 className="font-medium mb-4 mr-9"> LinkedIn</h4>
+              <div className="flex space-x-4 justify-center mr-9 ">
                 <a
                   href="https://www.linkedin.com/in/gregorio-ignacio-alfano-099396166"
                   target="_blank"
@@ -125,13 +125,6 @@ export const ContactSection = () => {
                   <Linkedin />
                 </a>
 
-                <a
-                  href="https://www.instagram.com/gregoalfano/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Instagram />
-                </a>
               </div>
             </div>
           </div>
